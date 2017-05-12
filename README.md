@@ -13,3 +13,6 @@ Wizard for Delphi
  - Delphi XE8 
  - Delphi 10 Seattle
  - Delphi 10.1 Berlin
+
+# Donate
+[![Donate](https://www.liqpay.com/1492601871674865/static/img/images/logo.svg)](https://www.liqpay.com/ru/checkout/card/mirsovetov)
