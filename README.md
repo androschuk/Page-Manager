@@ -1,5 +1,4 @@
 # Page-Manager
-Wizard for Delphi
 
 #Supported version
  - Delphi 2007
