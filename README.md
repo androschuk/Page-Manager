@@ -1,9 +1,10 @@
 # Page-Manager
 
 #Supported version
- ~~Delphi 2007~~
- ~~Delphi 2009~~
- ~~Delphi 20010~~
+
+  ~~Delphi 2007~~
+  ~~Delphi 2009~~
+  ~~Delphi 20010~~  
  - Delphi XE3 
  - Delphi XE4 
  - Delphi XE5
