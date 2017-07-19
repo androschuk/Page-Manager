@@ -2,9 +2,9 @@
 
 #Supported version
 
-  ~~Delphi 2007~~
-  ~~Delphi 2009~~
-  ~~Delphi 20010~~  
+  - ~~Delphi 2007~~ Removed in v0.0.0.19
+  - ~~Delphi 2009~~ Removed in v0.0.0.19
+  - ~~Delphi 2010~~ Removed in v0.0.0.19 
  - Delphi XE3 
  - Delphi XE4 
  - Delphi XE5
