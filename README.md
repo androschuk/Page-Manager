@@ -2,9 +2,9 @@
 Wizard for Delphi
 
 #Supported version
- - Delphi 2007
- - Delphi 2009 
- - Delphi 20010
+ ~~Delphi 2007~~
+ ~~Delphi 2009~~
+ ~~Delphi 20010~~
  - Delphi XE3 
  - Delphi XE4 
  - Delphi XE5
@@ -13,3 +13,4 @@ Wizard for Delphi
  - Delphi XE8 
  - Delphi 10 Seattle
  - Delphi 10.1 Berlin
+ - Delphi 10.2 Tokyo
