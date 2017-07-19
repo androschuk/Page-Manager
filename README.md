@@ -13,7 +13,7 @@
  - Delphi XE8 
  - Delphi 10 Seattle
  - Delphi 10.1 Berlin
- - Delphi 10.2 Tokyo
+ - Delphi 10.2 Tokyo  Added in v0.0.0.19
 
 # Donate
 [![Donate](https://www.liqpay.com/1492601871674865/static/img/images/logo.svg)](https://www.liqpay.com/ru/checkout/card/mirsovetov)
