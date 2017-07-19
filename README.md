@@ -1,5 +1,4 @@
 # Page-Manager
-Wizard for Delphi
 
 #Supported version
  ~~Delphi 2007~~
@@ -14,3 +13,6 @@ Wizard for Delphi
  - Delphi 10 Seattle
  - Delphi 10.1 Berlin
  - Delphi 10.2 Tokyo
+
+# Donate
+[![Donate](https://www.liqpay.com/1492601871674865/static/img/images/logo.svg)](https://www.liqpay.com/ru/checkout/card/mirsovetov)
